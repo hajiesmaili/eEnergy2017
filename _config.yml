@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "ACM eEnergy 2017"
 email: "mohammad@ie.cuhk.edu.hk"
-description: "GDG DevFest is a set of events all around the world"
+description: "ACM eEnergy 2017"
 baseurl: "/eenergy17"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
